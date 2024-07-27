@@ -1,1 +1,1 @@
-this is my 2nd file in repone directory
+this is my second file in repone directory
